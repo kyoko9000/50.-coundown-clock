@@ -1,2 +1,1 @@
-# 50.-coundown-clock
-license: lato' channel
+Copyright belongs to lato' channel https://youtube.com/@latochannel?si=_XEGFFR4WJ5wwKJb
